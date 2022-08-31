@@ -1,3 +1,4 @@
+# Aniket Rai's first CS193 Homework
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,6 +18,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- I like the activities at the start of class
+- I like learning about terminal
 
 1. Numbered
 2. List
